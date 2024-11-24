@@ -16,6 +16,19 @@ Qwen模型是由 [aliyun](https://aliyun.com/) 创建的 AI 助手，能够生�
 
 我们希望这些提示语能对你有所帮助，祝你使用 Qwen 玩得愉快！ 🎉
 
+## 常用资源清单
+
+🌍 [跨境出海技术栈](https://github.com/XiaomingX/indie-hacker-tools-plus)
+
+🤖 [AI搞钱原则手册](https://github.com/XiaomingX/ai-money-maker-handbook)
+
+🛠️ [构建你自己的X](https://github.com/XiaomingX/build-your-own-xxx)
+
+📋 [1000个中国独立开发者项目](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
+
+🧠 [世界上覆盖最全的优秀Qwen提示语大全](https://github.com/XiaomingX/awesome-qwen-prompt-insight)
+
+
 ## Contents
 - [Contents](#contents)
 - [AI Resume（with Qwen Artifacts)](#ai-resumewith-qwen-artifacts)
