@@ -26,6 +26,8 @@ Qwen模型是由 [aliyun](https://aliyun.com/) 创建的 AI 助手，能够生�
 
 📋 [1000个中国独立开发者项目](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
 
+📋 [100k-us-domains:ai导航站点数据集](https://github.com/XiaomingX/100k-us-domains)
+
 🧠 [世界上覆盖最全的优秀Qwen提示语大全](https://github.com/XiaomingX/awesome-qwen-prompt-insight)
 
 
