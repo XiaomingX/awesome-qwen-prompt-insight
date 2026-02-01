@@ -1,3 +1,7 @@
 tmp
 .idea
 *.iml
+*_backup/
+*.pyc
+__pycache__/
+.DS_Store
